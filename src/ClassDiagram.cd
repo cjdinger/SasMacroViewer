@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SAS.MacroViewer.AboutDlg" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAADAAABAAAASAAIACAAAgAUgAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.MacroViewer.BaseToolsForm">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEAABAAAAACAAgAACAAAAgAAAAAEAAAAAAAA=</HashCode>
+      <FileName>BaseToolsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.MacroViewer.ListItemComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Macro\MacroListItemComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SAS.MacroViewer.MacroTask" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Macro\MacroTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.MacroViewer.MacroVar" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Macro\MacroVar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.MacroViewer.MacroViewerDlg" Collapsed="true">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jBkBTQYAACKQjFIAJhCAAggKFAAABYIAKABEAYECABE=</HashCode>
+      <FileName>Macro\MacroViewerDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.MacroViewer.OptionsTask" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Options\OptionsTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.MacroViewer.OptionViewerDlg" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jAkBBBIABCaaCBJUBpCAAggKEAAIYAAAOAAVEYBSgJE=</HashCode>
+      <FileName>Options\OptionViewerDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.MacroViewer.Properties.Resources" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
